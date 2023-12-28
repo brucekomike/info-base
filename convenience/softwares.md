@@ -17,6 +17,10 @@ this category contains tools for making illustration or vector graph
 ## screen casting
 - obs
 - vlc
+- mediamtx
 - weylus
 
-## 3D Modeling
+## 3D modeling
+- blender
+- freecad
+

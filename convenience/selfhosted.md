@@ -1,4 +1,4 @@
 # selfhosted
 
 ## netdisk
-- nextcloud
+- nextcloud 
