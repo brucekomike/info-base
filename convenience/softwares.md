@@ -23,3 +23,12 @@ this category contains tools for making illustration or vector graph
 ## 3D modeling
 - blender
 - freecad
+
+## file shareing/sync
+- syncthing
+- kub
+- git
+
+## remote desktop
+- rustdesk
+- x11rdp
