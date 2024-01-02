@@ -22,8 +22,23 @@ cups cups-pdf
 ```
 
 ### aur
+- actrually, package helper auto detect whether the package is from offical repo or aur.
 ```bash
 # package helper
 packer yay downgrade
 # 
+
+# video editor
+olive-git
+# cad
+kicad freecad
+# graphic 
+krita obs vlc gimp inkscape 
+
+# Productivity
+zettlr libreoffice koreader-bin lorien
+weylus rustdesk 
+
+# develop
+visual-studio-code-bin
 ```

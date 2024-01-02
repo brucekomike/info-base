@@ -12,6 +12,17 @@ this category contains tools for development
 
 ## drawing
 this category contains tools for making illustration or vector graph
+- inkscape
+- krita
+- gimp
+- mypaint
+- lorien
+- pikopixel
+
+## proxy
+you know what this is
+- nekobox
+- nekoray
 
 ## note taking
 - obsidian

@@ -1,5 +1,9 @@
 # selfhosted
 
+## document
+- mediawiki
+- nextcloud collectiv
+
 ## netdisk
 - nextcloud 
 

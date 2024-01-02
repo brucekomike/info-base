@@ -1,11 +1,12 @@
 # info-base
 a personal knowledge base
 ## contents
-- canvas
-    - about the canvas created by obsidian
-- convenience
-    - about tools for convenience
-- diary
-    - may there is nothing
-- hobby
-    - about entertainments
+- Base
+    - the knowledge base
+- Configs
+    - config files for whatever
+- Scripts
+    - scripts for convenience
+ 
+## contribute
+if you want to share your info in this repo, just folk and create pull request.
