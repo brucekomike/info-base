@@ -1,0 +1,43 @@
+# this config file is for gaomon wh850
+# products in the same series may be simialar
+# this config file is for lorien
+# here is the device name
+
+#this name is for remote receiver
+#device_name = "TABLET Pen Tablet Pad"
+
+#this name is for wired link
+device_name = "HUION Huion Tablet Pen"
+
+# at this part you can custom the key layouts
+# here is two kind of entries
+# one is "dual_role"
+# [[dual_role]]
+# one is "remap"
+# [[remap]]
+# at this time I use remap
+
+# Redo (Ctrl+Y)
+[[remap]]
+input = ["BTN_0"]
+output = ["KEY_LEFTCTRL", "KEY_Y"]
+# Undo (Ctrl+Z)
+[[remap]]
+input = ["BTN_1"]
+output = ["KEY_LEFTCTRL", "KEY_Z"]
+# brush
+[[remap]]
+input = ["BTN_2"]
+output = ["KEY_B"]
+# eraser
+[[remap]]
+input = ["BTN_3"]
+output = ["KEY_E"]
+#zoom out
+[[remap]]
+input = ["BTN_4"]
+output = ["KEY_SCROLLDOWN"]
+#zoom in
+[[remap]]
+input = ["BTN_5"]
+output = ["KEY_SCROLLUP"]
