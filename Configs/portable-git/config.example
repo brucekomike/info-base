@@ -1,0 +1,8 @@
+Host github
+  #bsd version netcat below (recommend)
+  ProxyCommand nc -X 5 -x 127.0.0.1:2080 %h %p
+  #gnu version netcat below
+  #ProxyCommand nc %h %p 2080
+  HostName github.com
+  User     git
+  IdentityFile       ${LUKS_DIR}/.ssh/github-portable

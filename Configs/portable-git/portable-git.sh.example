@@ -1,0 +1,8 @@
+#!/bin/bash
+DISK_LABLE="YOU DISK LABLE HERE"
+export LUKS_DIR="/run/media/${USER}/${DISK_LABLE}/"
+export SC1="${LUKS_DIR}.ssh/config"
+export GIT_SSH_COMMAND='ssh -o IdentitiesOnly=yes -F ${SC1}'
+#git pull
+export EDITOR=nano
+export PS1="(ssh)${PS1}"
