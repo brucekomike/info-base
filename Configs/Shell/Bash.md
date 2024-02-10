@@ -1,6 +1,5 @@
-# shell config
+# Bash
 ## PS1
-
 ```
 # User
 PS1='\[\e[94m\][\A] \[\e[93m\][\u\[\e[96m\]@\h\[\e[36m\]] \[\e[35m\][\[\e[95m\]$(ip route get 1.1.1.1 | awk -F"src " '"'"'NR == 1{ split($2, a," ");print a[1]}'"'"')\[\e[35m\]] \[\e[33m\][\w]\n\[\e[90m\]$? \[\e[32m\][ \$ > \[\e[93m\]'
