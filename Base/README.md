@@ -4,9 +4,9 @@ this is the base dir for the knowledge bsae
 ## content
 - canvas
     - about the canvas created by obsidian
-- convenience
-    - about tools for convenience
-- diary
-    - may there is nothing
-- hobby
-    - about entertainments
+- per-day
+    - for daily life and daily computer use
+- productivity
+    - for thing that speed up work and very convenience
+- projects
+    - for anything i want to do in the future
