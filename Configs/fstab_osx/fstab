@@ -1,0 +1,13 @@
+#
+# Warning - this file should only be modified with vifs(8)
+#
+# Failure to do so is unsupported and may be destructive.
+#
+UUID=17C2ED66-D1A5-30BD-9955-864E134D716F none exfat ro
+LABEL=MUSIC none exfat ro,noauto
+# above is an example for mount a exfat partition read only
+# fstab structure
+# disk mount_point file_system mount_args
+#
+# the mount none means the disk mounted on default location
+# the default mount option is with 'auto', so auto mount can be leave.
